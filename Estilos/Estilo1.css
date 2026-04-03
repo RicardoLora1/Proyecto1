@@ -1,0 +1,40 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color:blue
+
+}
+
+body{
+    background-color: rgb(188, 212, 243);
+
+}
+
+#textonblm{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(216, 158, 137);
+
+}
+
+.estiloespecial{
+    color: blue;
+    font-size: 20px;
+}
+header{
+    background-color: rgb(145, 145, 236);
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid;
+    border-radius: 20px;
+}
+footer{
+    background-color: aquamarine;
+}
+#paisaje{
+    margin: 10px;
+    border-radius: 20px;
+    border: 2px solid;
+    width: 1000px;
+    height: auto;
+
+}
