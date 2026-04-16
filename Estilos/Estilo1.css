@@ -10,15 +10,21 @@ body{
 
 }
 
-#textonblm{
+#textosec{
     font-family: 'Courier New', Courier, monospace;
-    background-color: rgb(216, 158, 137);
+    background-color: rgb(147, 192, 235);
 
 }
 
 .estiloespecial{
     color: blue;
-    font-size: 20px;
+    font-size: 25px;
+}
+
+.parrafos{
+    color: rgb(45, 3, 158);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
 }
 header{
     background-color: rgb(145, 145, 236);
@@ -36,5 +42,10 @@ footer{
     border: 2px solid;
     width: 1000px;
     height: auto;
+
+}
+.titulo{
+    color: rgb(0, 0, 255);
+    font-size: 30px;
 
 }
